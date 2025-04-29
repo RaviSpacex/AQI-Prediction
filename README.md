@@ -49,7 +49,7 @@ I was solely responsible for:
 
 | EDA Dashboard                                
 
-| ![EDA](images/interface.jpg)               
+| ![EDA](images/intereface.jpg)               
 
 
 
