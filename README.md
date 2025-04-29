@@ -55,6 +55,22 @@ I was solely responsible for:
 
 ---
 
+---
+
+## 🧾 Code Access
+
+You can explore the core project files directly through the GitHub repository:
+
+- 🔧 [*Main Application Code (app.py)*](https://github.com/RaviSpacex/AQI-Prediction/blob/main/app.py)  
+  Contains all logic for data processing, EDA, model training, and AQI prediction via Streamlit.
+
+- 🖼️ [*Images Folder*](https://github.com/RaviSpacex/AQI-Prediction/tree/main/images)  
+  Includes visual assets and screenshots used in the README and UI documentation.
+
+Feel free to clone or fork the repo to explore and build on the project.
+
+---
+
 ## 🧠 Tech Stack
 
 - Python, Pandas, Numpy
