@@ -51,6 +51,7 @@ I was solely responsible for:
 
 | ![EDA](images/intereface.jpg)               
 
+| ![EDA](images/dashboard.jpg) 
 
 
 ---
