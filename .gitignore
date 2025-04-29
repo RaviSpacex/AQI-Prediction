@@ -1,0 +1,3 @@
+echo "combined_hourly_data.csv" >> .gitignore
+echo "combined_daily_data.csv" >> .gitignore
+echo "saved_models/" >> .gitignore
